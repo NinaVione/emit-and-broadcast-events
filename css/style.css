@@ -1,0 +1,53 @@
+body {
+  font-size: 10px;
+}
+
+.wrapper {
+  font-size: 1rem;
+}
+
+.block {
+  font-size: 1em;
+  padding: 1em;
+  border: 3px solid #000;
+}
+
+.outer-block {
+  width: 30em;
+  height: 30em;
+}
+
+.center-block {
+  width: 20em;
+  height: 20em;
+}
+
+.inner-block {
+  width: 10em;
+  height: 10em;
+}
+
+.btn-form {
+  font-size: 1em;
+  padding: 1em 0;
+}
+
+.outer-block > .btn-form {
+
+}
+
+.center-block > .btn-form {
+
+}
+
+.inner-block > .btn-form {
+
+}
+
+.red {
+  border: 3px solid #ff0000;
+}
+
+.green {
+  border: 3px solid #339900;
+}
